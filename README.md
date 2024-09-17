@@ -1,9 +1,11 @@
-# 2048_Game
-2048 Game in Pygame
-A classic implementation of the 2048 puzzle game using Pygame. This project features:
+# 2048 Game in Pygame
 
--Tile Management: Handles tile creation, movement, and merging with smooth animations.
-*Dynamic Grid: Draws a responsive grid with real-time updates based on user input.
-+Gameplay Mechanics: Includes tile spawning, movement in four directions, and game over detection.
+This project is a classic implementation of the [2048 puzzle game](https://en.wikipedia.org/wiki/2048_(video_game)) using the Pygame library. It features smooth animations and dynamic tile management.
 
-Explore the code to understand how game logic, Pygame rendering, and event handling work together to create an engaging puzzle game experience.
+## Features
+
+- **Tile Management:** Handles tile creation, movement, and merging with animations.
+- **Dynamic Grid:** Draws a responsive grid with real-time updates based on user input.
+- **Gameplay Mechanics:** Includes tile spawning, movement in four directions, and game over detection.
+
+
